@@ -63,26 +63,47 @@ I am interested in video game development, game-engine architecture, plugin syst
 
 ## Technologies I use
 
-**Languages:**  
-C#, JavaScript, TypeScript, Java, Python, C++, SQL, Ruby, COBOL
+### Languages
 
-**Frameworks and platforms:**  
-.NET, ASP.NET Core, Blazor, React, Ruby on Rails, Django, Node.js, Entity Framework
+**C# / .NET** is my primary development stack. I use it for full-stack applications, backend services, internal tools, APIs, business systems, automation workflows, and long-term application maintenance.
 
-**Databases and data:**  
-PostgreSQL, SQL Server, relational database design, data validation, reporting, data workflows
+I also work with **JavaScript, TypeScript, Java, Python, C++, SQL, Ruby, and COBOL** across web development, backend systems, scripting, data workflows, mainframe learning, scientific computing, engineering projects, and automation.
 
-**Infrastructure and DevOps:**  
-Linux, Docker, Proxmox, Git, CI/CD, Azure DevOps, Azure, Google Cloud Platform, AWS, Nginx, self-hosted services
+### Web development and application frameworks
 
-**Enterprise and systems work:**  
-APIs, webhooks, JSON, middleware, file transfers, production support, application support, technical documentation, system integration, modernization, batch processing
+I build web applications using **ASP.NET Core, Blazor, React, Ruby on Rails, Django, Node.js, and Entity Framework**.
 
-**AI and automation:**  
-Agentic workflows, knowledge retrieval, AI-assisted development, workflow automation, Python automation, internal tools
+My work includes frontend interfaces, backend APIs, authentication-aware workflows, admin tooling, database-backed systems, internal dashboards, user progress systems, content workflows, customer/service tools, and production-support utilities.
 
-**Engineering:**  
-3D CAD, PCB design, IoT devices, scientific computing, simulations, custom tooling, practical engineering prototypes
+### Databases and data workflows
+
+I work with **PostgreSQL, SQL Server, SQL queries, relational database design, data validation, reporting, and data workflows**.
+
+My experience includes investigating production data issues, comparing outputs between systems, validating business rules, building database-backed tools, supporting reporting workflows, and designing data models for web applications and internal systems.
+
+### Infrastructure, DevOps, and systems administration
+
+I work with **Linux, Docker, Proxmox, Git, CI/CD workflows, Azure DevOps, Azure, Google Cloud Platform, AWS, Nginx, and self-hosted services**.
+
+I use these tools for hosting applications, managing development environments, running virtual machines, supporting deployments, maintaining server infrastructure, configuring services, testing workflows, and building reliable environments for software and automation projects.
+
+### Enterprise systems and integrations
+
+I have professional experience supporting enterprise software involving **APIs, webhooks, JSON, middleware, file transfers, production support, application support, technical documentation, system integration, modernization, batch processing, scheduling, and business-critical workflows**.
+
+I care about software that does more than work locally. It needs to integrate cleanly, handle real data, support real users, survive production pressure, and remain understandable for the people maintaining it later.
+
+### AI, automation, and internal tools
+
+I build and experiment with **agentic workflows, knowledge retrieval, AI-assisted development, workflow automation, Python automation, internal tools, and modular agent systems**.
+
+My AI work focuses on practical workflows: helping systems retrieve knowledge, automate repetitive tasks, connect tools, support analysis, and improve internal operations while keeping privacy, validation, and maintainability in mind.
+
+### Engineering, simulations, and hardware-adjacent work
+
+I also work on projects involving **3D CAD, PCB design, IoT devices, scientific computing, computational simulations, custom tooling, and practical engineering prototypes**.
+
+I enjoy building software that connects to the physical world, especially for experimentation, measurement, automation, physics-related projects, and engineering systems.
 
 ## Open to opportunities
 
