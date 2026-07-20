@@ -12,11 +12,15 @@ My responsibilities extend across the product lifecycle. I investigate productio
 
 That environment has shaped how I approach engineering. Code has to do more than run locally. It must integrate cleanly, handle real data, survive operational pressure, communicate failures clearly, and remain maintainable for the people who inherit it.
 
-## I keep building outside my day job
+## Private work and current projects
 
-Through **Derifield Enterprises LLC**, I have built web applications, contracted business websites, desktop applications, command-line tools, automation systems, internal platforms, and the infrastructure that supports them. Some of this work is private because it belongs to clients or developing businesses, but it has given me experience moving from an idea to a working product without waiting for someone else to define every step.
+Through **Derifield Enterprises LLC**, I continue to build products outside my day job. Much of this development takes place in private repositories because it includes client-owned websites, internal business systems, commercial products still in development, and infrastructure containing sensitive configuration. Those repositories may not be visible here, but they represent working software built around real users and operational needs—not placeholder portfolio projects.
 
-I am comfortable entering an unfamiliar problem, learning the domain, selecting a practical architecture, and carrying the work through implementation and deployment. I also enjoy improving existing systems—especially when the real challenge is hidden in integrations, data flow, operational constraints, or years of accumulated decisions.
+My current private work includes a full-stack learning platform with course delivery, progress tracking, administration, content-production workflows, quality control, and certification-style learning paths; contracted websites and web applications designed around each business's users and operations; desktop and command-line tools; workflow automation and reporting systems; and the Linux, container, database, and virtual-machine infrastructure needed to run them.
+
+I also work on engineering, simulation, hardware-adjacent, and game-system projects that are still being developed or prepared for public release. When confidentiality and ownership allow it, I am happy to discuss architecture, engineering decisions, development process, deployment, and the problems these systems solve—or provide demonstrations, screenshots, and sanitized examples.
+
+This work has made me comfortable entering an unfamiliar problem, learning the domain, selecting a practical architecture, and carrying the product through implementation and deployment. I also enjoy improving existing systems, especially when the real challenge is hidden in integrations, data flow, operational constraints, or years of accumulated decisions.
 
 ## Featured work
 
@@ -33,10 +37,6 @@ The worker node extends NexusAI across additional machines and compute backends.
 ### [PersonalAssistant](https://github.com/Jacobdrosol/PersonalAssistant)
 
 PersonalAssistant grew from the need to keep tasks, standups, deadlines, workflow context, and production responsibilities from becoming disconnected. It reflects the kind of software I enjoy building: tools grounded in an actual operational problem rather than features invented in isolation.
-
-### Learning-platform architecture
-
-I have also built the core of a private learning platform covering course delivery, lesson structures, progress tracking, administration, content workflows, quality control, and certification-style learning paths. My work spans the application architecture, backend and frontend systems, database design, deployment, testing, and the tools other contributors need to do their work consistently.
 
 ## What I bring to a team
 
@@ -58,9 +58,17 @@ I am curious by nature. I spend time on physics, scientific computing, simulatio
 
 That curiosity is also why I enjoy open source. I can contribute code, testing, debugging, architecture, documentation, infrastructure, or the less glamorous work of making an existing system easier for other people to use and maintain.
 
-## Let's build something worthwhile
+## Looking for my next role
 
-I'm open to full-stack, backend, platform, and enterprise software roles—particularly work involving .NET, modernization, integrations, reliability, automation, infrastructure, or practical AI systems. I am also interested in contributing to open-source projects where thoughtful engineering and dependable follow-through matter.
+I am actively looking for a new full-time software engineering position where I can contribute immediately and continue growing with a strong team. I am especially interested in full-stack, backend, platform, and enterprise software roles involving **.NET, application modernization, integrations, data-intensive systems, reliability, automation, infrastructure, or practical AI**.
+
+I bring professional experience supporting business-critical production software, hands-on experience building products independently, and the willingness to learn whatever the problem requires. If you are hiring someone who can work across boundaries, take ownership, communicate clearly, and follow a problem through to a dependable result, I would like to connect.
+
+## Open to open source
+
+I am also looking for meaningful ways to contribute to open-source projects. I can help with application code, APIs, debugging, tests, documentation, developer tooling, automation, infrastructure, issue investigation, or the maintenance work that makes a project easier for others to use.
+
+I am particularly interested in projects involving .NET, developer platforms, AI tooling and orchestration, Linux and infrastructure, enterprise modernization, scientific software, or game-engine tooling—but I am open to other worthwhile problems. If you maintain a project that could use a dependable contributor, feel free to reach out.
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/jacob-derifield)
 - [Explore my repositories](https://github.com/Jacobdrosol?tab=repositories)
